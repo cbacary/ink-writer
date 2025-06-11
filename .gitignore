@@ -1,0 +1,11 @@
+*.ipynb
+imgs/
+imgs_old/
+augmented.png
+emnist.zip
+
+dataset/__emnist_dataset_unused/
+emnist.zip
+
+# Python
+__pycache__/
